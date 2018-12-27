@@ -1,0 +1,1 @@
+az webapp deployment source config-zip --resource-group API_Gateway_Dev --name commscopedevapi --src C:\Users\RT1050\Desktop\test\webapps.zip
